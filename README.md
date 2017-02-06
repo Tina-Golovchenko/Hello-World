@@ -1,2 +1,4 @@
 # Hello-World
-Learning how to work on GitHub
+
+My first steps on GitHub
+Creating a new branch
